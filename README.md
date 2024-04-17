@@ -1,4 +1,3 @@
-# Using_openAI_API
 # Using OpenAI API
 
 ## Overview
@@ -7,10 +6,10 @@ This repository demonstrates potential examples of utilizing the API of OpenAI t
 
 ## Examples
 
-### 1. Text Completion
+### 1. Text Completion `OpenAI_API.py`
    - Use the OpenAI API to generate text completions based on a given input text. Explore the power of language generation models in generating coherent and contextually relevant text.
 
-### 2. Financial Report Retriever
+### 2. Financial Report Retriever `Chatbot_Financial_Reports`
    - Combine the capabilities of Langchain and the OpenAI API to create a retriever for financial reports. Upload a financial report in PDF format, and interact with a chatbot to obtain information and insights about the report.
    - Utilize Langchain for PDF parsing and extracting relevant financial information.
    - Harness the OpenAI API to provide additional context and analysis based on extracted data, allowing for interactive querying and exploration of financial reports.
